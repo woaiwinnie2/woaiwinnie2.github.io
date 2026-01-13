@@ -1,24 +1,23 @@
 # Haochen Zhao - Resume Website
 
-Personal resume and portfolio website hosted on GitHub Pages.
+A professional resume and portfolio website showcasing academic background, research interests, and technical skills.
 
-## How to view
-Visit: `https://yourusername.github.io` (replace `yourusername` with your GitHub username)
+## 🌐 Live Website
+Visit: https://woaiwinnie2.github.io or https://web.cs.ucla.edu/~zhaohch/
 
-## Project structure
-- `index.html` - Main resume page
-- `styles.css` - Stylesheet
-- `README.md` - This file
+## 👤 About
+- **Ph.D. Student** in Computer Science
+- **Research Focus**: IoT & Machine Perception
+- **Email**: zhaohch2000@gmail.com
 
-## Setup for GitHub Pages
+## 📋 Contents
 
-1. Create a repository named `yourusername.github.io` on GitHub
-2. Clone it locally
-3. Copy all files from this project into the repository
-4. Commit and push to GitHub
-5. Your site will be live at `https://yourusername.github.io`
+The website includes:
+- **Education** - Academic background and degrees
+- **Research Interests** - Focus areas in IoT and machine perception
+- **Technical Skills** - Programming languages and tools
+- **Experience** - Professional and research experience
+- **Publications** - Research papers and contributions
 
-## Features
-- Responsive design
-- Professional resume layout
-- Direct contact links
+## 📧 Contact
+For inquiries, reach out via email: zhaohch2000@gmail.com
